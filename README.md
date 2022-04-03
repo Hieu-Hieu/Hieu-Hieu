@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=Hieu-Hieu&show_icons=true&theme=dark&locale=en" alt="Hieu-Hieu" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hieu-Hieu&show_icons=true&include_all_commits=true&theme=dark&locale=en" alt="Hieu-Hieu" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hieu-Hieu&show_icons=true&include_all_commits=true&theme=dark&locale=en&count_private=true&layout=compact" alt="Hieu-Hieu" /></td>
   </tr>
 </table>
 
