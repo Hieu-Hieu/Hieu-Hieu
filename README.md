@@ -36,7 +36,11 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=Hieu-Hieu&show_icons=true&theme=dark&locale=en" alt="Hieu-Hieu" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hieu-Hieu&show_icons=true&include_all_commits=true&theme=dark&locale=en&count_private=true&layout=compact" alt="Hieu-Hieu" /></td>
+<!--     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hieu-Hieu&show_icons=true&include_all_commits=true&theme=dark&locale=en&count_private=true&layout=compact" alt="Hieu-Hieu" /></td>
+  </tr> -->
+     <td>
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hieu-Hieu&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=12" alt="Hieu-Hieu" width="100%"/>
+    </td>
   </tr>
 </table>
 
